@@ -1,0 +1,7 @@
+1|Coca|1000ml|Coca-Cola|21|10.0
+2|Sprite|600ml|Coca-Cola|102|13.0
+4|Doritos|52gr|Sabritas|20|14.0
+3|Ruffles|49gr|Sabritas|20|13.5
+5|Powerade|600m|Coca-Cola|16|18.0
+6|Magnum|87gr|Holanda|33|5.0
+7|Fanta|1l|Coca-Cola|20|13.5

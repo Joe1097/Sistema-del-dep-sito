@@ -1,0 +1,4 @@
+1|Coca-Cola|4492344333|Palma|231|2|Arboledas|20987|2|2|2
+2|Holanda|4493452333|Zanja|111|2|Las trojes|20433|2|2|2
+3|Sabritas|4494563222|Loma Verde|345|0|Lomas del Ajedréz|20221|0|0|0
+4|Marinela|4493221123|Bella Vista|889|0|Colonia del Trabajo|20984|0|0|0
