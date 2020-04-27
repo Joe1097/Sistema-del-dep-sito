@@ -6,7 +6,7 @@ Por caprichos de nuestra docente, el sistema poseé módulos y pestañas redunda
 
 El sistema no utiliza alguna base de datos, en cambio, los datos son almacenados en archivos de texto de una manera peculiar. Esto da como resultado un sistema eficaz.
 
-Por úlitmo quiero mencionar que por questión de tiempo no me dí a la tarea de comentar el código, pero esta incidencia se compensa con la robustez del sistema.
+Por úlitmo quiero mencionar que por questión de tiempo no me dí a la tarea de comentar el código, pero esta incidencia se compensa con la robustez que tiene sistema.
 
 ### ¿Como montar el proyecto?
 
