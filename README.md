@@ -1,4 +1,4 @@
-# Sistema-del-depósito
+# Sistema del depósito
 
 El sistema que desarrollamos en 7mo semestre para la materia Implantación de Sistemas. El diseño de la interfaz y el código, está hecho en su mayor parte por mí. La documentación, hecha en su mayoría por mis 2 compañeros.
 
