@@ -1,6 +1,8 @@
 # Sistema del depósito
 
-El sistema que desarrollamos en 7mo semestre para la materia Implantación de Sistemas. El diseño de la interfaz y el código, está hecho en su mayor parte por mí, en lenguaje Java. La documentación, hecha en su mayoría por mis 2 compañeros.
+El sistema que desarrollamos en 7mo semestre para la materia Implantación de Sistemas.
+
+El diseño de la interfaz y el código, está hecho en su mayor parte por mí, en lenguaje Java. La documentación, hecha en su mayoría por mis 2 compañeros.
 
 Por caprichos de nuestra docente, el sistema poseé módulos y pestañas redundantes a lo largo de los 4 diferentes subsistemas, además de nombres inadecuados en estos módulos. Puede ver el flujo de pantallas apóyandose en el archivo Flujo de pantallas.jpg en la carpeta Raíz. El manual de usuario también debe estar ahí.
 
