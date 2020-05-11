@@ -13,7 +13,7 @@ Por úlitmo quiero mencionar que por questión de tiempo no me dí a la tarea de
 ### ¿Como montar el proyecto?
 
 - Instale algún IDE de Java como Netbeans.
-- Abra el proyecto.
-- En el navegador del IDE, abra la carpeta del proyecto, busque el archivo Source Packages/Menu/Iniciando_Sistema.java y córralo.
+- En el navegador del IDE, abra la carpeta del proyecto, busque el archivo Source Packages/Menu/Iniciando_Sistema.java
+- Ejecute el proyecto.
 
 Nota: Para acceder como gerente, la contraseña es "gerente".
