@@ -10,10 +10,10 @@ El sistema no utiliza alguna base de datos, en cambio, los datos son almacenados
 
 Por úlitmo quiero mencionar que por questión de tiempo no me dí a la tarea de comentar el código, pero esta incidencia se compensa con la robustez que tiene sistema.
 
-### ¿Como montar el proyecto?
+### ¿Cómo montar el proyecto?
 
 - Instale algún IDE de Java como Netbeans.
-- En el navegador del IDE, abra la carpeta del proyecto, busque el archivo Source Packages/Menu/Iniciando_Sistema.java
+- En el navegador del IDE, abra la carpeta del proyecto, busque el archivo Source Packages/Menu/Iniciando_Sistema.java, y abralo.
 - Ejecute el proyecto.
 
 Nota: Para acceder como gerente, la contraseña es "gerente".
